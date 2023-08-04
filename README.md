@@ -1,6 +1,6 @@
-# Hi There, My Name is Thomas Eykamp 🏳️‍⚧️
+# Hi There, My Name is Thomas
 
-### 👨‍🎓 RPI Alum
+### 👨‍🎓 RPI Alumn
 
 ### 🧑‍💻 Environmental Process Engineer @ AECOM
 
