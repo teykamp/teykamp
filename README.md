@@ -1,4 +1,4 @@
-# I AM THOMAS!
+# Hi There, My Name is Thomas Eykamp 🏳️‍⚧️
 
 ### 👨‍🎓 RPI Alum
 
