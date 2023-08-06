@@ -6,7 +6,7 @@
 
 ### 👨‍🎓 RPI Alumn
 
-### 🧑‍💻 Environmental Process Engineer @ AECOM
+### 🏢 Environmental Process Engineer @ AECOM
 
 ### 💚 Favorite Framework: VueJS
 
