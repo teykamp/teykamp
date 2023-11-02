@@ -6,7 +6,7 @@
 
 ### 👨‍🎓 Rensselaer Polytechnic Institute
 
-### 🏢 Environmental Process Engineer @ AECOM
+### 🏢 Engineer @ AECOM
 
 ### 💚 Favorite Framework: VueJS
 
