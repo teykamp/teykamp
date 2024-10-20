@@ -4,7 +4,7 @@
 
 ### 👨‍🎓 Rensselaer Polytechnic Institute
 
-### 💚 Favorite Framework: VueJS
+### 💚 Vue, 💙 TS
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=teykamp&theme=vue-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
